@@ -24,5 +24,5 @@
       * New Car objects are created and pushed into **std::vector**
 
   *  **mainMenu()** -> Main terminal-based interface:
-      * **readFile()** is ran and options to run the files above are displayed.
+      * Options to run the functions above are displayed.
       * On exit, cars in std::vector are saved into cars.data.

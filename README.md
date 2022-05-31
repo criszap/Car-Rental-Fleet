@@ -1,6 +1,6 @@
 ## Car Rental Fleet
 
-### Basic program to help car rental companies manage their rental fleet.
+### Basic program to help manage a car rental fleet.
 
 * **Car** class consists of:
   *  Default and Paramaterized Constructors.
